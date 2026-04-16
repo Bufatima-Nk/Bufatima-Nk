@@ -1,13 +1,56 @@
-### Hi there, I'm Bufatima Nk 👋
+<h1 align="center">Bufatima Nurmuhammad kyzy</h1>
+<h3 align="center">ML Engineer · Production Credit Risk & Recommendation Systems · MBank</h3>
 
-I'm a data science enthusiast with a passion for uncovering insights from complex datasets. When I'm not exploring data, you might find me enjoying a good book, experimenting with new recipes, or learning about the latest tech trends.
+<p align="center">
+  <a href="https://bufatima-nk.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/bufatima-n-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bufatima.nk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I'm currently delving into various data science projects to deepen my skills.
-- 🌱 I'm on a continuous learning journey, always seeking to expand my knowledge in data science and analytics.
-- 💬 Feel free to reach out to me if you're interested in data analysis, visualization, or machine learning!
+---
 
-Connect with me:
-- LinkedIn: [linkedin.com/in/bufatima-n-k/](https://www.linkedin.com/in/bufatima-n-k/)
+## About Me
 
-Let's connect and collaborate! Feel free to explore my projects and don't hesitate to get in touch.
+I'm an ML Engineer at **MBank**, one of Kyrgyzstan's leading digital banks, where I build
+and deploy machine learning models that directly drive financial decisions for hundreds
+of thousands of customers.
 
+- 🏦 **Production ML:** income prediction, loan overdue classification, recommendation systems
+- 🎓 **MSc Data Science** — thesis: multi-task deep learning for earthquake forecasting in Central Asia
+- 📊 **Background:** applied mathematics, statistics, 2+ years teaching ML at university level
+- 🌍 Open to **remote Data Scientist / ML Engineer roles**
+
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL  
+**ML:** scikit-learn, XGBoost, LightGBM, SHAP  
+**Deep Learning / Research:** PyTorch  
+**Data:** pandas, NumPy, Matplotlib, Seaborn  
+**Time Series:** ARIMA, GARCH/EGARCH, statsmodels  
+**Tools:** Git, Docker, Jupyter, ClearML
+
+---
+
+## Featured Projects
+
+| Project | What it does | Key result |
+|---|---|---|
+| [Gold Price Volatility Forecasting](https://github.com/Bufatima-Nk/Gold-Volatility-Forecasting) | GARCH/EGARCH model with walk-forward validation | Best model selected via AIC/BIC |
+| [Bishkek Air Quality Analysis](https://github.com/Bufatima-Nk/Bishkek-Air-Quality-Analysis) | AR model on 10,000+ real PM2.5 readings from Bishkek sensors | Winter peak PM2.5: 753 (hazardous) |
+| [Customer Churn Prediction](https://github.com/Bufatima-Nk/Customer-Churn-Prediction) | Classification pipeline · Random Forest vs GBM comparison | 90% accuracy · key churn drivers identified |
+| [British Airways NLP Analysis](https://github.com/Bufatima-Nk/British-Airways-reviews-analysis) | Web scraping + sentiment analysis + LDA topic modeling | Analyzed 2,000+ reviews |
+| [Wine Quality Classification](https://github.com/Bufatima-Nk/Wine-Quality-Classification) | Multi-class classifier with saved model artifacts | Random Forest: 88% accuracy |
+
+---
+
+<p align="center">
+  Open to remote Data Scientist / ML Engineer roles · Bishkek, Kyrgyzstan 🇰🇬
+</p>
