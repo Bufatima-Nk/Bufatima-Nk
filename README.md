@@ -43,7 +43,7 @@ of thousands of customers.
 
 | Project | What it does | Key result |
 |---|---|---|
-| [Gold Price Volatility Forecasting](https://github.com/Bufatima-Nk/Gold-Volatility-Forecasting) | GARCH/EGARCH model with walk-forward validation | Best model selected via AIC/BIC |
+| [Gold Price Volatility Forecasting](https://github.com/Bufatima-Nk/Gold-Volatility-Forecasting) | GARCH model with walk-forward validation | Best model selected via AIC/BIC |
 | [Bishkek Air Quality Analysis](https://github.com/Bufatima-Nk/Bishkek-Air-Quality-Analysis) | AR model on 10,000+ real PM2.5 readings from Bishkek sensors | Winter peak PM2.5: 753 (hazardous) |
 | [Customer Churn Prediction](https://github.com/Bufatima-Nk/Customer-Churn-Prediction) | Classification pipeline · Random Forest vs GBM comparison | 90% accuracy · key churn drivers identified |
 | [British Airways NLP Analysis](https://github.com/Bufatima-Nk/British-Airways-reviews-analysis) | Web scraping + sentiment analysis + LDA topic modeling | Analyzed 2,000+ reviews |
