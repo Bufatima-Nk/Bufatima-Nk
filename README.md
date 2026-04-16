@@ -31,10 +31,10 @@ of thousands of customers.
 ## Tech Stack
 
 **Languages:** Python, SQL  
-**ML:** scikit-learn, XGBoost, LightGBM, SHAP  
+**ML:** scikit-learn, XGBoost, LightGBM,CatBoost, SHAP  
 **Deep Learning / Research:** PyTorch  
 **Data:** pandas, NumPy, Matplotlib, Seaborn  
-**Time Series:** ARIMA, GARCH/EGARCH, statsmodels  
+**Time Series:** ARIMA, GARCH, statsmodels, Survival Analysis
 **Tools:** Git, Docker, Jupyter, ClearML
 
 ---
