@@ -19,7 +19,7 @@
 I'm an ML Engineer at **MBank**, one of Kyrgyzstan's leading digital banks, where I develop
 and deliver production machine learning models that support financial decisions for real customers.
 
-- 🏦 **Production ML:** income prediction (Model 2 of a credit potenntial prediction pipeline), loan overdue prediction (end-to-end), and a recommendation system (rule-based v1 delivered, ML-based v2 in progress)
+- 🏦 **Production ML:** income prediction (Model 2 of a credit potential prediction pipeline), loan overdue prediction (end-to-end), and a recommendation system (rule-based v1 delivered, ML-based v2 in progress)
 - 🎓 **MSc Data Science** — thesis: multi-task deep learning for earthquake forecasting in Central Asia
 - 📊 **Background:** applied mathematics, statistics, 2+ years teaching ML at university level
 - 🌍 Open to **remote Data Scientist / ML Engineer roles**
