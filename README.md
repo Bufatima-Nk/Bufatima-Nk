@@ -1,5 +1,5 @@
 <h1 align="center">Bufatima Nurmuhammad kyzy</h1>
-<h3 align="center">ML Engineer · Credit Risk & Recommendation Systems · MBank</h3>
+<h3 align="center">ML Engineer · Data Scientist </h3>
 <p align="center">
   <a href="https://bufatima-nk.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/>
